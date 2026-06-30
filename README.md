@@ -8,8 +8,8 @@ This repository documents my journey of learning Java from fundamentals to advan
 
 - ✅ Variables and Data Types
 - ✅ Type Conversion and Type Casting
-- ⏳ Operators
-- ⏳ Conditional Statements
+- ✅ Operators
+- ✅ Conditional Statements
 - ⏳ Loops
 - ⏳ Arrays
 - ⏳ Strings
@@ -35,12 +35,20 @@ This repository documents my journey of learning Java from fundamentals to advan
 - Prepare for software development interviews
 - Maintain consistency through daily commits
 
-## 📌 Repository Structure
+## 🚀 Repository Structure
 
-Each folder in this repository represents a specific Java topic and contains:
-- Theory and concepts
-- Practical examples
-- Coding exercises
-- Notes and practice problems
+```text
+01-Variables-Datatypes-TypeConversion
+02-Operators-ConditionalStatements
+03-Loops
+04-Arrays
+05-Strings
+06-Methods
+07-Object-Oriented-Programming
+08-Collections-Framework
+09-Exception-Handling
+10-File-Handling
+11-Multithreading
+```
 
 Happy Coding! ☕🚀
