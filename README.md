@@ -10,7 +10,7 @@ This repository documents my journey of learning Java from fundamentals to advan
 - ✅ Type Conversion and Type Casting
 - ✅ Operators
 - ✅ Conditional Statements
-- ⏳ Loops
+- ✅ Loops
 - ⏳ Arrays
 - ⏳ Strings
 - ⏳ Methods
