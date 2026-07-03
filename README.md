@@ -13,8 +13,8 @@ This repository documents my journey of learning Java from fundamentals to advan
 - ✅ Loops
 - ⏳ Arrays
 - ⏳ Strings
-- ⏳ Methods
-- ⏳ Object-Oriented Programming (OOP)
+- ✅ Methods
+- ✅ Object-Oriented Programming (OOP)
 - ⏳ Collections Framework
 - ⏳ Exception Handling
 - ⏳ File Handling
