@@ -12,7 +12,7 @@ This repository documents my journey of learning Java from fundamentals to advan
 - ✅ Conditional Statements
 - ✅ Loops
 - ✅ Arrays
-- ⏳ Strings
+- ✅ Strings
 - ✅ Methods
 - ✅ Object-Oriented Programming (OOP)
 - ⏳ Collections Framework
