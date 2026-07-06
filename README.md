@@ -17,6 +17,7 @@ This repository documents my journey of learning Java from fundamentals to advan
 - ✅ Object-Oriented Programming (OOP)
 - ✅ Static Keyword
 - ✅ Constructor
+- ✅ Encapsulation
 - ⏳ Collections Framework
 - ⏳ Exception Handling
 - ⏳ File Handling
