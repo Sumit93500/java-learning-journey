@@ -20,6 +20,7 @@ This repository documents my journey of learning Java from fundamentals to advan
 - ✅ Encapsulation
 - ✅ Naming Conventions
 - ✅ Inheritance
+- ✅ Super and This
 - ⏳ Collections Framework
 - ⏳ Exception Handling
 - ⏳ File Handling
