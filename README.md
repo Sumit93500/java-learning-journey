@@ -18,6 +18,7 @@ This repository documents my journey of learning Java from fundamentals to advan
 - ✅ Static Keyword
 - ✅ Constructor
 - ✅ Encapsulation
+- ✅ Naming Conventions
 - ⏳ Collections Framework
 - ⏳ Exception Handling
 - ⏳ File Handling
