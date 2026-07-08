@@ -21,6 +21,11 @@ This repository documents my journey of learning Java from fundamentals to advan
 - ✅ Naming Conventions
 - ✅ Inheritance
 - ✅ Super and This
+- ✅ MethodOverriding
+- ✅ Access Modifiers
+- ✅ Polymorphism
+- ✅ Dynamic Method Dispatch
+- ✅ Final Keyword(Variable, Method, Class)
 - ⏳ Collections Framework
 - ⏳ Exception Handling
 - ⏳ File Handling
