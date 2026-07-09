@@ -28,7 +28,7 @@ This repository documents my journey of learning Java from fundamentals to advan
 - ✅ Final Keyword(Variable, Method, Class)
 - ✅ Upcasting and Downcasting
 - ✅ Wrapper Class
-- ✅ Abstract
+- ✅ Abstract Classes
 - ✅ Inner Class
 - ⏳ Exception Handling
 - ⏳ File Handling

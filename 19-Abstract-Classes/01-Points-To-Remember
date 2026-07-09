@@ -1,0 +1,15 @@
+## Abstraction (Java)
+
+- Abstraction is the process of hiding implementation details and showing only essential functionality.
+- It focuses on "what an object does" rather than "how it does it."
+- Achieved using:
+  - Abstract Classes
+  - Interfaces
+- An abstract class is declared using the `abstract` keyword.
+- An abstract class cannot be instantiated.
+- It can contain both abstract and concrete (normal) methods.
+- An abstract method has no implementation (no method body).
+- If a class contains an abstract method, it must be declared `abstract`.
+- A concrete subclass must implement all inherited abstract methods.
+- Abstract classes can have constructors, variables, static methods, and final methods.
+- Abstraction improves code reusability, maintainability, security, and scalability.
