@@ -29,7 +29,7 @@ This repository documents my journey of learning Java from fundamentals to advan
 - ✅ Upcasting and Downcasting
 - ✅ Wrapper Class
 - ✅ Abstract Classes
-- ✅ Inner Class
+- ✅ Inner Classes
 - ⏳ Exception Handling
 - ⏳ File Handling
 - ⏳ Multithreading
