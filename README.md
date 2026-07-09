@@ -26,7 +26,10 @@ This repository documents my journey of learning Java from fundamentals to advan
 - ✅ Polymorphism
 - ✅ Dynamic Method Dispatch
 - ✅ Final Keyword(Variable, Method, Class)
-- ⏳ Collections Framework
+- ✅ Upcasting and Downcasting
+- ✅ Wrapper Class
+- ✅ Abstract
+- ✅ Inner Class
 - ⏳ Exception Handling
 - ⏳ File Handling
 - ⏳ Multithreading
