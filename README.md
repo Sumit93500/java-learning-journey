@@ -30,7 +30,8 @@ This repository documents my journey of learning Java from fundamentals to advan
 - ✅ Wrapper Class
 - ✅ Abstract Classes
 - ✅ Inner Classes
-- ⏳ Exception Handling
+- ✅ Interfaces
+- ✅ Exception Handling
 - ⏳ File Handling
 - ⏳ Multithreading
 - ⏳ Generics
